@@ -4,7 +4,7 @@ The exercise files from the course Advanced NLP with Python for Machine Learning
 
 https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning
 
-The course offered solution files and also detailed guidance through each stage in videos. However, due to discrepancies in versions, certain issues arose which have now been resolved here. Additionally, the structure of the files has been streamlined for simplicity.
+The course offered detailed guidance through each stage in videos and also solution files. However, due to discrepancies in versions, certain issues arose which have now been resolved here. Additionally, the structure of the files has been streamlined for simplicity.
 
 ## Outline
 1. Review NLP Basics
