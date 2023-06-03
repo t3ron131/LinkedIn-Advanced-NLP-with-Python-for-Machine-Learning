@@ -1,5 +1,7 @@
 # LinkedIn - Advanced NLP with Python for Machine Learning
 
+Disclaimer:  All materials shared here belong to their respective owners and are provided by the course. They are posted here for learning purposes only. If the original creator or publisher asks me to remove them, I will do so promptly. No copyright infringement is intended and no profit is made from these materials.
+
 The exercise files from the course Advanced NLP with Python for Machine Learning in LinkedIn Learning:
 
 https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning
