@@ -28,5 +28,5 @@ The course offered detailed guidance through each stage in videos and also solut
     - [Build a model on doc2vec embeddings](./05_Compare_Models/05_04.ipynb)
     - [Build an RNN model](./05_Compare_Models/05_05.ipynb)
 
-##Disclaimer
+## Disclaimer
 All materials shared here belong to their respective owners and are provided by the course. They are posted here for learning purposes only. If the original creator or publisher asks me to remove them, I will do so promptly. No copyright infringement is intended and no profit is made from these materials.
